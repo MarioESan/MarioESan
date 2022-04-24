@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/Sounmay/Sounmay/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Mario Eduardo Sanchez Pelaez</h1>
 <h3 align="center">Hi I´m Mario from Mexico, Automation Engineer trying to get into coding</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-
+<img align='right' alt 'Coding' width '400' src='https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioesan&label=Profile%20views&color=0e75b6&style=flat" alt="marioesan" /> </p>
 
@@ -28,6 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marioesan&show_icons=true&locale=en" alt="marioesan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioesan&" alt="marioesan" /></p>
-
-
-![image](https://user-images.githubusercontent.com/98684055/164970934-389a1f83-8617-46a8-bc94-e4d2aaa2c481.png)
