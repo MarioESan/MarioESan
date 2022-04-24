@@ -1,6 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/Sounmay/Sounmay/master/resources/banner.png)
+![MasterHead](https://raw.githubusercontent.com/Sounmay/Sounmay/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Mario Eduardo Sanchez Pelaez</h1>
-<h3 align="center">Hi I´m Mario from Mexico, Automation Engineer trying to get into coding</h3>
+<h3 align="center">Greetings from Mexico, Automation Engineer trying to get into coding</h3>
 <img align='right' alt 'Coding' width '400' src='https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioesan&label=Profile%20views&color=0e75b6&style=flat" alt="marioesan" /> </p>
