@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/mario-eduardo-s%C3%A1nchez-pel%C3%A1ez-0aa995230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marioshzpz" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/marioshzpz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marioshzpz" height="30" width="40" /></a>
 <a href="https://instagram.com/www.instagram.com/mario.esanz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/mario.esanz/" height="30" width="40" /></a>
 </p>
 
