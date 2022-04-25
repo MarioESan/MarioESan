@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mariosanchezpelaez@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/marioshzpz](www.linkedin.com/in/marioshzpz)
+- 📄 Know about my experiences [www.linkedin.com/in/marioshzpz/](www.linkedin.com/in/marioshzpz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
